@@ -7,3 +7,9 @@ This project fine tunes the Mask_Rcnn_inception_resnet_v2 model from object dete
  - Object detection API 
  
 ## Test
+![](test/individualImage.png)
+![](test/individualImage1.png)
+![](test/individualImage2.png)
+![](test/individualImage3.png)
+![](test/individualImage4.png)
+![](test/individualImage5.png)
